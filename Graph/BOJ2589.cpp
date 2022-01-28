@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include <queue>
 #include <tuple>
+#include <string.h>
 using namespace std;
 int n, m, mx, visited[54][54];
 const int dy[4] = { -1, 0, 1, 0 };
